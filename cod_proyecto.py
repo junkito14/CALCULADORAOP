@@ -1,4 +1,6 @@
 import random 
+import math
+import numpy as np
 
 def create_numbers ():
     """ Esta función sirve para generar números aleatorios entre 0 y 1""" 
